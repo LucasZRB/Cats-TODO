@@ -1,0 +1,16 @@
+.TodoCounter {
+  font-size: 24px;
+  text-align: center;
+  margin: 0;
+  padding: 48px;
+  font-weight: normal;
+}
+
+body.timed-night .TodoCounter,
+body.timed-afternoon .TodoCounter {
+  color: white;
+}
+
+.TodoCounter span {
+  font-weight: bold;
+}

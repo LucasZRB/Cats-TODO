@@ -1,0 +1,48 @@
+.CreateTodoButton {
+  background-color: #61DAFA;
+  box-shadow: 0px 5px 25px rgba(97, 218, 250, 0.5);
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 50px;
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  font-weight: bold;
+  color: #FAFAFA;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 64px;
+  width: 64px;
+}
+
+.Tutorial-Button, .Tutorial-Paw {
+  z-index: 2;
+}
+
+.Paw {
+  width: 100px;
+  position: fixed;
+  right: -100px;
+  bottom: 150px;
+
+  transform: rotate(0);
+  transition: .3s ease;
+}
+
+.Paw.Paw-hover {
+  right: -30px;
+  transform: rotate(-35deg);
+}
+
+.Paw.Paw-click {
+  right: -30px;
+  bottom: 50px;
+  transform: rotate(-70deg);
+}
+
+.Paw.Paw-touch {
+  bottom: -50px;
+  transform: rotate(-85deg);
+}

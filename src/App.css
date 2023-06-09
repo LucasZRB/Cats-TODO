@@ -1,0 +1,12 @@
+body.timed-morning {
+  background-image: url('https://thumbs.dreamstime.com/b/rastros-de-cat-textile-pattern-modelo-incons%C3%BAtil-la-impresi%C3%B3n-pata-del-vector-fondo-rosado-para-el-dise%C3%B1o-que-embala-135362506.jpg');
+  background-size: contain;
+}
+body.timed-afternoon {
+  background-image: url('https://milesdefondos.com/wp-content/uploads/2021/06/22153.jpg');
+  background-size: contain;
+}
+body.timed-night {
+  background-image: url('https://i.pinimg.com/originals/a7/be/3e/a7be3ed01eacda028e266bde0194adf1.jpg');
+  background-size: contain;
+}
