@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cats-TODO/static/css/main.022a9c18.css",
+    "main.js": "/Cats-TODO/static/js/main.2ef63708.js",
+    "static/media/LoadingCat.gif": "/Cats-TODO/static/media/LoadingCat.c055f10c806f2fedff3c.gif",
+    "static/media/AnnoyingCat.gif": "/Cats-TODO/static/media/AnnoyingCat.ffda270690ad42bf3ff7.gif",
+    "static/media/GatoMono.jpg": "/Cats-TODO/static/media/GatoMono.d61e72e3ba7cc995bd68.jpg",
+    "static/media/Cat_Paw_Front.png": "/Cats-TODO/static/media/Cat_Paw_Front.70a7cf11a226d14d7f79.png",
+    "static/media/baby_cat.mp3": "/Cats-TODO/static/media/baby_cat.96108fddfb815a5d037b.mp3",
+    "static/media/Cat_Paw_Back.png": "/Cats-TODO/static/media/Cat_Paw_Back.7cde27202cc640bd75b3.png",
+    "static/media/purr_meow.mp3": "/Cats-TODO/static/media/purr_meow.4f1b258c3c96e52b1b26.mp3",
+    "static/media/annoying_cat.mp3": "/Cats-TODO/static/media/annoying_cat.b3e8d8e95c0c118a76d2.mp3",
+    "index.html": "/Cats-TODO/index.html",
+    "static/media/delete.svg": "/Cats-TODO/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
+    "static/media/check.svg": "/Cats-TODO/static/media/check.38f596e64d38d54463f988385b633c05.svg",
+    "main.022a9c18.css.map": "/Cats-TODO/static/css/main.022a9c18.css.map",
+    "main.2ef63708.js.map": "/Cats-TODO/static/js/main.2ef63708.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.022a9c18.css",
+    "static/js/main.2ef63708.js"
+  ]
+}
