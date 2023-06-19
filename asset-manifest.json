@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Cats-TODO/static/css/main.022a9c18.css",
-    "main.js": "/Cats-TODO/static/js/main.2ef63708.js",
+    "main.css": "/Cats-TODO/static/css/main.6025d5bf.css",
+    "main.js": "/Cats-TODO/static/js/main.f83caaaf.js",
     "static/media/LoadingCat.gif": "/Cats-TODO/static/media/LoadingCat.c055f10c806f2fedff3c.gif",
     "static/media/AnnoyingCat.gif": "/Cats-TODO/static/media/AnnoyingCat.ffda270690ad42bf3ff7.gif",
     "static/media/GatoMono.jpg": "/Cats-TODO/static/media/GatoMono.d61e72e3ba7cc995bd68.jpg",
@@ -13,11 +13,11 @@
     "index.html": "/Cats-TODO/index.html",
     "static/media/delete.svg": "/Cats-TODO/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
     "static/media/check.svg": "/Cats-TODO/static/media/check.38f596e64d38d54463f988385b633c05.svg",
-    "main.022a9c18.css.map": "/Cats-TODO/static/css/main.022a9c18.css.map",
-    "main.2ef63708.js.map": "/Cats-TODO/static/js/main.2ef63708.js.map"
+    "main.6025d5bf.css.map": "/Cats-TODO/static/css/main.6025d5bf.css.map",
+    "main.f83caaaf.js.map": "/Cats-TODO/static/js/main.f83caaaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.022a9c18.css",
-    "static/js/main.2ef63708.js"
+    "static/css/main.6025d5bf.css",
+    "static/js/main.f83caaaf.js"
   ]
 }

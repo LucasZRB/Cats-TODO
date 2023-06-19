@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "CaT",
+  "name": "Cat's TODO",
+  "description": "Immerse in a universe of enchanting stories, puzzles, and charming cats! Embark on an exciting adventure, unravel mysteries, and experience unforgettable moments in a world brimming with furry felines. Captivating, fun-filled, and task-friendly under the protection of adorable fur.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,13 +9,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "GatoMono.jpg",
+      "src": "GatoMono.png",
       "type": "image/png",
       "sizes": "1440x1080"
     }
   ],
   "start_url": ".",
+  "orientation": "portrait",
   "display": "standalone",
-  "theme_color": "#97ca3f",
-  "background_color": "#233553"
+  "theme_color": "#333333",
+  "background_color": "#f7cdca"
 }
